@@ -19,7 +19,8 @@ f.hubspotusercontent10.net
 matomo.podigee.com	
 .*matomo.*	
 .*podigee.*
-.*facebook.*	
+.*facebook.*
+.*instagram.*
 .*metrics.*	
 .*hubspot.*	
 .*mateti.*	
